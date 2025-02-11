@@ -1,6 +1,7 @@
 # Bruteforce
 **Disclaimer!**
 This bruteforce is for windows only. The password you are trying to dinf must be 6 consecutive numbers.
+
 _Warning_: I am not responsible for any activity you do with this bruteforce. Please use this respectabily and in YOUR safe environement!
 
 ## Tutorial
