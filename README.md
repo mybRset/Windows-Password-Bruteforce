@@ -1,7 +1,7 @@
 # Bruteforce
 **Disclaimer!**
-For windows only.
-The code you are trying to find must be six numbers.
+This bruteforce is for windows only. The password you are trying to dinf must be 6 consecutive numbers.
+_Warning_: I am not responsible for any activity you do with this bruteforce. Please use this respectabily and in YOUR safe environement!
 
 ## Tutorial
 1. Download _bruteforce.bat_ and _hashlist.txt_
